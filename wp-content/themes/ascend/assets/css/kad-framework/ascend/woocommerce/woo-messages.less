@@ -1,0 +1,32 @@
+
+	.woocommerce-error, .woocommerce-info, .woocommerce-message, .woocommerce-noreviews, p.no-comments {
+	    padding: 15px 15px;
+	    margin-bottom: 24px;
+	    background-color: @primary;
+	    margin-left: 0;
+	    color: #fff;
+	    list-style: none;
+	    line-height: 24px;
+	    border-left: 8px solid rgba(0,0,0,.15);
+	    a:not(.button):not([data-rel="lightbox"]):not(.woocommerce-Button) {
+	    	color: #fff;
+	    	border-color:rgba(255,255,255,.5);
+	    	&:hover {
+	    		border-color:#fff;
+	    	}
+	    }
+	    a.button {
+	    	float: right;
+	    	background: transparent;
+    		color: #fff;
+    		line-height: 24px;
+    		padding: 0 0 0 15px;
+    		font-weight: bold;
+		    border-left: 1px solid #fff;
+		    text-shadow: none;
+		    .box-shadow(none);
+	    }
+	}
+	.woocommerce-error {
+		background: #e2401c
+	}
