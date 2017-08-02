@@ -1,0 +1,5 @@
+<div class="ec_payment_type_holder<?php if( get_option( 'ec_option_payment_process_method' ) != "custom" ){ echo '_inactive'; } ?>" id="custom">
+
+	In order to use this option, add your custom payment gateway class to the plugins/wp-easycart-data/ folder of your WordPress install. The best way to use this option is to copy any of the existing live gateway classes (like ec_authorize.php) from the plugins/wp-easycart/inc/classes/gateway/ folder to the plugins/wp-easycart-data/ folder. You should then rename the class to ec_customgateway and the file to ec_customgateway.php. More information is available at <a href="http://v3docs.wpeasycart.com/3.0.0/index/index.php" target="_blank">http://v3docs.wpeasycart.com/</a> and an article on our developer site at <a href="http://blog.wpeasycart.com/" target="_blank">http://blog.wpeasycart.com/</a>.<br /><br />
+
+</div>
