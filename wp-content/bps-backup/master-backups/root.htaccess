@@ -1,8 +1,8 @@
 #   BULLETPROOF 2.3 SECURE .HTACCESS     
 
-# CUSTOM CODE TOP PHP/PHP.INI HANDLER/CACHE CODE
-# PHP/php.ini handler htaccess code
-AddHandler application/x-httpd-php70 .php .php5 .php4 .php3
+# PHP/PHP.INI HANDLER/CACHE CODE
+# Use BPS Custom Code to add php/php.ini Handler and Cache htaccess code and to save it permanently.
+# Most Hosts do not have/use/require php/php.ini Handler htaccess code
 
 # TURN OFF YOUR SERVER SIGNATURE
 # Suppresses the footer line server version number and ServerName of the serving virtual host
@@ -223,3 +223,5 @@ Deny from all
 # HOTLINKING/FORBID COMMENT SPAMMERS/BLOCK BOTS/BLOCK IP/REDIRECT CODE
 # PLACEHOLDER ONLY
 # Use BPS Custom Code to add custom code and save it permanently here.
+
+AddHandler application/x-httpd-php70 .php .php5 .php4 .php3
