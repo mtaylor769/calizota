@@ -86,7 +86,9 @@ RewriteEngine On
 # RewriteCond %{REQUEST_URI} (admin-ajax\.php|post\.php) [NC]
 # RewriteRule . - [S=2]
 #
-
+# Yoast SEO Query String skip/bypass rule
+RewriteCond %{QUERY_STRING} page=wpseo_social&key=(.*) [NC]
+RewriteRule . - [S=2]
 # END CUSTOM CODE WPADMIN PLUGIN/FILE SKIP RULES
 
 # DEFAULT WHITELIST SKIP RULE FOR WP PRESS THIS

@@ -2,3 +2,245 @@ BPS DB BACKUP LOG
 ==================
 ==================
 
+
+[Create Backup Job Settings Logged: August 2, 2017 8:25 am]
+Description|Backup Job Name: Full DB Backup
+DB Backup Folder Location: /home/techdouc/public_html/calizota.com/wp-content/bps-backup/backups_1bnLVCmlf7IgKQh
+DB Backup File Download Link|URL: http://www.calizota.com/wp-content/bps-backup/backups_1bnLVCmlf7IgKQh/
+Backup Job Type: Scheduled
+Frequency: Daily
+Time When Scheduled Backup is Run: 2AM
+Send Scheduled Backup Zip Files Via Email: No
+Automatically Delete Old Backup Files Older Than: 5 day(s) old
+Scheduled Backups (override): On
+Table Name: ec_address
+Table Name: ec_affiliate_rule
+Table Name: ec_affiliate_rule_to_affiliate
+Table Name: ec_affiliate_rule_to_product
+Table Name: ec_bundle
+Table Name: ec_category
+Table Name: ec_categoryitem
+Table Name: ec_code
+Table Name: ec_country
+Table Name: ec_customfield
+Table Name: ec_customfielddata
+Table Name: ec_download
+Table Name: ec_giftcard
+Table Name: ec_live_rate_cache
+Table Name: ec_manufacturer
+Table Name: ec_menulevel1
+Table Name: ec_menulevel2
+Table Name: ec_menulevel3
+Table Name: ec_option
+Table Name: ec_option_to_product
+Table Name: ec_optionitem
+Table Name: ec_optionitemimage
+Table Name: ec_optionitemquantity
+Table Name: ec_order
+Table Name: ec_order_option
+Table Name: ec_orderdetail
+Table Name: ec_orderstatus
+Table Name: ec_pageoption
+Table Name: ec_perpage
+Table Name: ec_pricepoint
+Table Name: ec_pricetier
+Table Name: ec_product
+Table Name: ec_product_google_attributes
+Table Name: ec_promocode
+Table Name: ec_promotion
+Table Name: ec_response
+Table Name: ec_review
+Table Name: ec_role
+Table Name: ec_roleaccess
+Table Name: ec_roleprice
+Table Name: ec_setting
+Table Name: ec_shipping_class
+Table Name: ec_shipping_class_to_rate
+Table Name: ec_shippingrate
+Table Name: ec_state
+Table Name: ec_subscriber
+Table Name: ec_subscription
+Table Name: ec_subscription_plan
+Table Name: ec_taxrate
+Table Name: ec_tempcart
+Table Name: ec_tempcart_data
+Table Name: ec_tempcart_optionitem
+Table Name: ec_timezone
+Table Name: ec_user
+Table Name: ec_webhook
+Table Name: ec_zone
+Table Name: ec_zone_to_location
+Table Name: wp_blog_versions
+Table Name: wp_blogs
+Table Name: wp_bpspro_db_backup
+Table Name: wp_bpspro_login_security
+Table Name: wp_bpspro_seclog_ignore
+Table Name: wp_commentmeta
+Table Name: wp_comments
+Table Name: wp_links
+Table Name: wp_options
+Table Name: wp_postmeta
+Table Name: wp_posts
+Table Name: wp_registration_log
+Table Name: wp_signups
+Table Name: wp_site
+Table Name: wp_sitemeta
+Table Name: wp_term_relationships
+Table Name: wp_term_taxonomy
+Table Name: wp_termmeta
+Table Name: wp_terms
+Table Name: wp_usermeta
+Table Name: wp_users
+Table Name: wp_wfBadLeechers
+Table Name: wp_wfBlockedIPLog
+Table Name: wp_wfBlocks
+Table Name: wp_wfBlocksAdv
+Table Name: wp_wfConfig
+Table Name: wp_wfCrawlers
+Table Name: wp_wfFileMods
+Table Name: wp_wfHits
+Table Name: wp_wfHoover
+Table Name: wp_wfIssues
+Table Name: wp_wfKnownFileList
+Table Name: wp_wfLeechers
+Table Name: wp_wfLockedOut
+Table Name: wp_wfLocs
+Table Name: wp_wfLogins
+Table Name: wp_wfNet404s
+Table Name: wp_wfNotifications
+Table Name: wp_wfPendingIssues
+Table Name: wp_wfReverseCache
+Table Name: wp_wfSNIPCache
+Table Name: wp_wfScanners
+Table Name: wp_wfStatus
+Table Name: wp_wfThrottleLog
+Table Name: wp_wfVulnScanners
+Table Name: wp_wpgmza
+Table Name: wp_wpgmza_categories
+Table Name: wp_wpgmza_category_maps
+Table Name: wp_wpgmza_maps
+Table Name: wp_wpgmza_polygon
+Table Name: wp_wpgmza_polylines
+Table Name: wp_yoast_seo_links
+Table Name: wp_yoast_seo_meta
+
+[Create Backup Job Settings Logged: August 2, 2017 8:26 am]
+Description|Backup Job Name: Full DB Backup
+DB Backup Folder Location: /home/techdouc/public_html/calizota.com/wp-content/bps-backup/backups_1bnLVCmlf7IgKQh
+DB Backup File Download Link|URL: http://www.calizota.com/wp-content/bps-backup/backups_1bnLVCmlf7IgKQh/
+Backup Job Type: Manual
+Frequency: NA
+Time When Scheduled Backup is Run: Manual
+Send Scheduled Backup Zip Files Via Email: Manual
+Automatically Delete Old Backup Files Older Than: Never day(s) old
+Scheduled Backups (override): On
+Table Name: ec_address
+Table Name: ec_affiliate_rule
+Table Name: ec_affiliate_rule_to_affiliate
+Table Name: ec_affiliate_rule_to_product
+Table Name: ec_bundle
+Table Name: ec_category
+Table Name: ec_categoryitem
+Table Name: ec_code
+Table Name: ec_country
+Table Name: ec_customfield
+Table Name: ec_customfielddata
+Table Name: ec_download
+Table Name: ec_giftcard
+Table Name: ec_live_rate_cache
+Table Name: ec_manufacturer
+Table Name: ec_menulevel1
+Table Name: ec_menulevel2
+Table Name: ec_menulevel3
+Table Name: ec_option
+Table Name: ec_option_to_product
+Table Name: ec_optionitem
+Table Name: ec_optionitemimage
+Table Name: ec_optionitemquantity
+Table Name: ec_order
+Table Name: ec_order_option
+Table Name: ec_orderdetail
+Table Name: ec_orderstatus
+Table Name: ec_pageoption
+Table Name: ec_perpage
+Table Name: ec_pricepoint
+Table Name: ec_pricetier
+Table Name: ec_product
+Table Name: ec_product_google_attributes
+Table Name: ec_promocode
+Table Name: ec_promotion
+Table Name: ec_response
+Table Name: ec_review
+Table Name: ec_role
+Table Name: ec_roleaccess
+Table Name: ec_roleprice
+Table Name: ec_setting
+Table Name: ec_shipping_class
+Table Name: ec_shipping_class_to_rate
+Table Name: ec_shippingrate
+Table Name: ec_state
+Table Name: ec_subscriber
+Table Name: ec_subscription
+Table Name: ec_subscription_plan
+Table Name: ec_taxrate
+Table Name: ec_tempcart
+Table Name: ec_tempcart_data
+Table Name: ec_tempcart_optionitem
+Table Name: ec_timezone
+Table Name: ec_user
+Table Name: ec_webhook
+Table Name: ec_zone
+Table Name: ec_zone_to_location
+Table Name: wp_blog_versions
+Table Name: wp_blogs
+Table Name: wp_bpspro_db_backup
+Table Name: wp_bpspro_login_security
+Table Name: wp_bpspro_seclog_ignore
+Table Name: wp_commentmeta
+Table Name: wp_comments
+Table Name: wp_links
+Table Name: wp_options
+Table Name: wp_postmeta
+Table Name: wp_posts
+Table Name: wp_registration_log
+Table Name: wp_signups
+Table Name: wp_site
+Table Name: wp_sitemeta
+Table Name: wp_term_relationships
+Table Name: wp_term_taxonomy
+Table Name: wp_termmeta
+Table Name: wp_terms
+Table Name: wp_usermeta
+Table Name: wp_users
+Table Name: wp_wfBadLeechers
+Table Name: wp_wfBlockedIPLog
+Table Name: wp_wfBlocks
+Table Name: wp_wfBlocksAdv
+Table Name: wp_wfConfig
+Table Name: wp_wfCrawlers
+Table Name: wp_wfFileMods
+Table Name: wp_wfHits
+Table Name: wp_wfHoover
+Table Name: wp_wfIssues
+Table Name: wp_wfKnownFileList
+Table Name: wp_wfLeechers
+Table Name: wp_wfLockedOut
+Table Name: wp_wfLocs
+Table Name: wp_wfLogins
+Table Name: wp_wfNet404s
+Table Name: wp_wfNotifications
+Table Name: wp_wfPendingIssues
+Table Name: wp_wfReverseCache
+Table Name: wp_wfSNIPCache
+Table Name: wp_wfScanners
+Table Name: wp_wfStatus
+Table Name: wp_wfThrottleLog
+Table Name: wp_wfVulnScanners
+Table Name: wp_wpgmza
+Table Name: wp_wpgmza_categories
+Table Name: wp_wpgmza_category_maps
+Table Name: wp_wpgmza_maps
+Table Name: wp_wpgmza_polygon
+Table Name: wp_wpgmza_polylines
+Table Name: wp_yoast_seo_links
+Table Name: wp_yoast_seo_meta

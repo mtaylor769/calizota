@@ -4,6 +4,7 @@
 # PHP/php.ini handler htaccess code
 AddHandler application/x-httpd-php70 .php .php5 .php4 .php3
 
+
 # TURN OFF YOUR SERVER SIGNATURE
 # Suppresses the footer line server version number and ServerName of the serving virtual host
 ServerSignature Off
@@ -223,12 +224,3 @@ Deny from all
 # HOTLINKING/FORBID COMMENT SPAMMERS/BLOCK BOTS/BLOCK IP/REDIRECT CODE
 # PLACEHOLDER ONLY
 # Use BPS Custom Code to add custom code and save it permanently here.
-
-
-
-# Wordfence WAF
-
-# END Wordfence WAF
-
-
-
