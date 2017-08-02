@@ -12,7 +12,6 @@
  * @var bool
  */
 define('WP_USE_THEMES', true);
-ini_set('auto_prepend_file', '/home/techdouc/public_html/calizota.com/wordfence-waf.php');
 
 /** Loads the WordPress Environment and Template */
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );

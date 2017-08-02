@@ -1,3 +1,4 @@
+SetEnv PHPRC /home/techdouc/public_html/calizota.com/php.ini
 #   BULLETPROOF 2.3 SECURE .HTACCESS     
 
 # CUSTOM CODE TOP PHP/PHP.INI HANDLER/CACHE CODE
@@ -242,3 +243,11 @@ Deny from all
     </IfModule>
 </FilesMatch>
 # END W3TC Browser Cache
+
+
+# Wordfence WAF
+
+# END Wordfence WAF
+
+
+
