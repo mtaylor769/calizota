@@ -1,3 +1,57 @@
 BPS SECURITY LOG
 =================
 =================
+
+[403 GET Request: August 2, 2017 6:08 am]
+BPS: 2.3
+WP: 4.8
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 181.224.153.154
+Host Name: ip-181-224-153-154.siteground.com
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://www.calizota.com/wp-config.php.bak
+REQUEST_URI: /wp-config.php.bak
+QUERY_STRING: 
+HTTP_USER_AGENT: WordPress/4.8; http://www.calizota.com
+
+[403 GET Request: August 2, 2017 6:12 am]
+BPS: 2.3
+WP: 4.8
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 181.224.153.154
+Host Name: ip-181-224-153-154.siteground.com
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://www.calizota.com/wp-config.php.bak
+REQUEST_URI: /wp-config.php.bak
+QUERY_STRING: 
+HTTP_USER_AGENT: WordPress/4.8; http://www.calizota.com
+
+[403 GET Request: August 2, 2017 6:13 am]
+BPS: 2.3
+WP: 4.8
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 181.224.153.154
+Host Name: ip-181-224-153-154.siteground.com
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://www.calizota.com/wp-config.php.bak
+REQUEST_URI: /wp-config.php.bak
+QUERY_STRING: 
+HTTP_USER_AGENT: WordPress/4.8; http://www.calizota.com
